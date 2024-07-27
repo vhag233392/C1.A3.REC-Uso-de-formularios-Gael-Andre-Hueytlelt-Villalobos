@@ -1,0 +1,5 @@
+#divFormulario{
+
+    display: flex;
+    flex-direction: row;
+}
